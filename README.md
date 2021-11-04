@@ -1,5 +1,7 @@
 # Best Buy API Playground
 
+being used by: CPSC 3520- CUSports
+
 [![travis][travis-image]][travis-url]
 [![Coverage Status][coveralls-image]][coveralls-url]
 [![semistandard][semistandard-image]][semistandard-url]
